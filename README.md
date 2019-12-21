@@ -1,1 +1,1 @@
-"лабораторная работа №1 Карпушиной Софьи"
+# laboratornaya-rabota-1-znakomstvo-s-lisp-Sofyakarp
